@@ -46,3 +46,8 @@ License
 -------
 
 swagger-tester is licensed under http://opensource.org/licenses/MIT.
+
+
+.. image:: https://badges.gitter.im/Trax-air/swagger-tester.svg
+   :alt: Join the chat at https://gitter.im/Trax-air/swagger-tester
+   :target: https://gitter.im/Trax-air/swagger-tester?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
